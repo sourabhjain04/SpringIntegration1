@@ -1,0 +1,6 @@
+rootProject.name = 'demoGra'
+
+include("my__sub_project")
+
+
+
